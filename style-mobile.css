@@ -1,4 +1,8 @@
-  /* Estilos para telas pequenas (aparelhos móveis)  SAMSUNG GALAXY S8+ "LARGURA DE 360PX" */
+*{
+  scroll-behavior: smooth;
+}
+
+/* Estilos para telas pequenas (aparelhos móveis)  SAMSUNG GALAXY S8+ "LARGURA DE 360PX" */
   @media screen and (min-width: 360px) and (min-height:740px){
     body {
       font-size: 12px;
